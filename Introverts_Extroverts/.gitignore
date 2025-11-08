@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Packaging / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints
+# If you keep outputs inside notebooks, ignore them; otherwise keep notebooks tracked:
+# *.ipynb
+
+# Common IDE / editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs, caches, databases
+*.log
+*.sqlite3
+*.db
+.cache/
+tmp/
+*.pid
+
+# Environment files (may contain secrets)
+.env
+.env.*.local
+
+submissions/
+# Large datasets / images (uncomment if you store datasets outside a data pipeline)
+data/
+
+# OneDrive / temp files
+~$*
+~*.tmp
+
+# Misc
+coverage.xml
+htmlcov/
+reports/
