@@ -1,11 +1,11 @@
-# 🎓 AI & Data Science Portfolio – David Khachatryan
+# **🎓 AI & Data Science Portfolio – David Khachatryan**
 
 Welcome to my **AI & Data Science Portfolio**, a curated collection of my projects, research notebooks, and experiments in **Machine Learning**, **Artificial Intelligence**, and **Data Analysis**.  
 This repository showcases my academic journey, technical growth, and applied work in data-driven problem-solving.
 
 ---
 
-## 🧭 About This Portfolio
+## **🧭 About This Portfolio**
 
 This portfolio was created to demonstrate both **theoretical understanding** and **practical implementation** of key AI and ML concepts.  
 Every notebook has been designed to reflect real analytical thinking — from data exploration and mathematical modeling to algorithm evaluation and interpretation.
@@ -18,7 +18,7 @@ The purpose of this repository is to:
 
 ---
 
-## 🗂️ Repository Structure
+## **🗂️ Repository Structure**
 
 Each folder represents a project or concept area.  
 All projects include a Jupyter Notebook and a local `README.md` with an introduction, explanation, and conclusions.
@@ -42,7 +42,7 @@ Each project is structured as a complete analysis:
 
 ---
 
-## 📚 Core Skills Demonstrated
+## **📚 Core Skills Demonstrated**
 
 - Machine Learning (Regression, Classification, Clustering)  
 - Data Preprocessing & Feature Engineering  
@@ -55,7 +55,7 @@ Each project is structured as a complete analysis:
 
 ---
 
-## 🧰 Tools & Technologies
+## **🧰 Tools & Technologies**
 
 **Languages:** Python  
 **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
@@ -65,7 +65,7 @@ Each project is structured as a complete analysis:
 
 ---
 
-## 🧠 Philosophy
+## **🧠 Philosophy**
 
 I believe that Artificial Intelligence is not just about automation — it’s about **understanding intelligence itself**.  
 Through mathematical rigor, experimentation, and continuous learning, I strive to build systems that **learn, reason, and make decisions intelligently**.  
@@ -73,21 +73,21 @@ This portfolio represents that journey: one project at a time.
 
 ---
 
-## 👤 About Me
+## **👤 About Me**
 
 **David Khachatryan**  
 AI & Data Science Student | Research-Oriented Learner | Future Innovator  
 
 - Focus Areas: Artificial Intelligence, Machine Learning, Optimization, and Applied Mathematics.  
 - Goals: To study at a top U.S. university (MIT, Stanford, or Harvard) under a fully funded scholarship and contribute to the field of AI research and development.  
-- Interests: Mathematical modeling, data-driven design, algorithmic reasoning, and educational technology.  
+- Interests: Mathematical modeling, Phiscs, data-driven design, algorithmic reasoning, and educational technology.  
 
 📫 **Contact:** [My Linkedin](https://www.linkedin.com/in/david-khachatryan-65a14b376/)
 🌐 **GitHub:** [github.com/khachatryanDavid](https://github.com/khachatryanDavid)
 
 ---
 
-## 🏁 Conclusion
+## **🏁 Conclusion**
 
 This portfolio serves as both a **record of academic growth** and a **demonstration of technical ability**.  
 Each notebook is a step toward mastering Artificial Intelligence — combining theoretical depth, clean implementation, and research-level clarity.  
@@ -95,8 +95,8 @@ The goal is not only to learn algorithms, but to **understand, explain, and impr
 
 ---
 
-📅 *First Updated:* October 2025
+📅 *First Update:* October 2025
 
-📅 *Last Updated:* November 2025
+📅 *Last Update:* November 2025
 
 📍 *Maintained by:* **David Khachatryan**
