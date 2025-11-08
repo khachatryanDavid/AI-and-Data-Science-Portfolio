@@ -95,5 +95,6 @@ The goal is not only to learn algorithms, but to **understand, explain, and impr
 
 ---
 
-📅 *Last Updated:* October 2025  
+📅 *First Updated:* October 2025
+📅 *Last Updated:* November 2025
 📍 *Maintained by:* **David Khachatryan**
