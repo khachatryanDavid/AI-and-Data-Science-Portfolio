@@ -76,7 +76,7 @@ This portfolio represents that journey: one project at a time.
 ## **👤 About Me**
 
 **David Khachatryan**  
-AI & Data Science Student | Research-Oriented Learner | Future Innovator  
+Junior in ML & DS | AI & Data Science Student | Research-Oriented Learner | Future Innovator  
 
 - Focus Areas: Artificial Intelligence, Machine Learning, Optimization, and Applied Mathematics.  
 - Goals: To study at a top U.S. university (MIT, Stanford, or Harvard) under a fully funded scholarship and contribute to the field of AI research and development.  
