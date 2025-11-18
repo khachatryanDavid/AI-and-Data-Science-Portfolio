@@ -370,24 +370,16 @@ This journey wouldn't be possible without:
 
 ---
 
-## 📅 **Timeline**
+## 📅 **Portfolio Timeline**
 
 <div align="center">
-```
-October 2025  →  Portfolio Initiated | Foundational ML Projects
-November 2025 →  Deep Learning with PyTorch | Neural Network Experiments
-December 2025 →  Advanced Topics (Planned) | Computer Vision & NLP
-2026          →  Research Projects | Publications | Open Source Contributions
-```
+
+| Period | Milestone | Focus Area |
+|--------|-----------|------------|
+| **October 2025** | 🎬 Portfolio Initiated | Machine Learning Foundations |
+| **November 2025** | 🔥 Deep Learning Era | Neural Networks with PyTorch |
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 *"Machine learning is the science of getting computers to learn without being explicitly programmed."*
-*— Andrew Ng*
 
 ---
 
@@ -405,8 +397,34 @@ December 2025 →  Advanced Topics (Planned) | Computer Vision & NLP
 
 ---
 
+<div align="center">
+
 *If this portfolio demonstrates the level of dedication and skill you're looking for, let's connect!*
 
 [![Star this repo](https://img.shields.io/github/stars/khachatryanDavid/AI-and-Data-Science-Portfolio?style=social)](https://github.com/khachatryanDavid/AI-and-Data-Science-Portfolio)
 
 </div>
+
+---
+# **Phrases**
+
+<div align="center">
+
+## **1. Machine Learning**
+
+### 💡 *"Machine learning is the science of getting computers to learn without being explicitly programmed."*
+*— Andrew Ng*
+
+---
+## **2. Data Science**
+<div align="center">
+
+### 💡 *"Without data, you're just another person with an opinion."*
+*— W. Edwards Deming*
+
+---
+## **3. Neural Network**
+<div align="center">
+
+### 💡 *"The brain is a three-pound mass you can hold in your hand that can conceive of a universe a hundred billion light-years across."*
+*— Marian Diamond*
