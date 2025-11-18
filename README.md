@@ -1,5 +1,4 @@
 # 🎓 **AI & Data Science Portfolio**
-### *David Khachatryan*
 
 <div align="center">
 
@@ -284,7 +283,7 @@ graph LR
 ## 👤 **About Me**
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Future+ML+Researcher;Problem+Solver+%7C+Critical+Thinker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Junior;Future+ML+Researcher;Problem+Solver+%7C+Critical+Thinker" alt="Typing SVG" />
 </div>
 
 **David Khachatryan**  
