@@ -58,7 +58,7 @@ Each project is structured as a complete analysis:
 ## **🧰 Tools & Technologies**
 
 **Languages:** Python  
-**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, PyTorch
 **Environment:** Jupyter Notebook, Visual Studio Code  
 **Databases:** CSV, PostgreSQL (for backend integration)  
 **Deployment Tools:** Render, Railway, Firebase, Cloudinary  
