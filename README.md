@@ -386,8 +386,12 @@ December 2025 →  Advanced Topics (Planned) | Computer Vision & NLP
 
 <div align="center">
 
-### 💡 *"In God we trust, all others must bring data."*
-*— W. Edwards Deming*
+### 💡 *"Machine learning is the science of getting computers to learn without being explicitly programmed."*
+*— Andrew Ng*
+
+---
+
+**🎯 Not just applying algorithms — understanding why they work.**
 
 ---
 
