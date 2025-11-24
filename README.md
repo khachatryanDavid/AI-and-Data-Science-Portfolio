@@ -319,7 +319,7 @@ My approach:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-khachatryan-65a14b376/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khachatryanDavid)
 
-**Open to:** Research Collaborations | ML Internships | Academic Discussions | Open Source Contributions
+**Open to:** Research Collaborations | AI related Internships | Academic Discussions | Open Source Contributions
 
 </div>
 
